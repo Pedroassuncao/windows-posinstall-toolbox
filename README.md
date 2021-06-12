@@ -41,11 +41,13 @@ This has been made with the intent of making it easier to tweak Windows and it's
 
 - Git
 
+- Powertoys
+
 
 **Powershell script**
 
 ```powershell
-winget install --id=Telegram.TelegramDesktop -e  ; winget install --id=Mozilla.Firefox -e  ; winget install --id=Spotify.Spotify -e  ; winget install --id=BraveSoftware.BraveBrowser -e  ; winget install --id=VSCodium.VSCodium -e  ; winget install --id=Microsoft.WindowsTerminal -e  ; winget install --id=Git.Git -e 
+winget install --id=Telegram.TelegramDesktop -e  ; winget install --id=Mozilla.Firefox -e  ; winget install --id=Spotify.Spotify -e  ; winget install --id=BraveSoftware.BraveBrowser -e  ; winget install --id=VSCodium.VSCodium -e  ; winget install --id=Microsoft.WindowsTerminal -e  ; winget install --id=Git.Git -e  ; winget install --id=Microsoft.PowerToys -e
 ```
 
 
