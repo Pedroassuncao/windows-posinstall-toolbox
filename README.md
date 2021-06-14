@@ -1,6 +1,11 @@
-# Welcome to my handy toolbox for windows 10
+___
+<h2 align="center"> Welcome to my handy toolbox for windows 10
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/1280px-Windows_10_Logo.svg.png)
+___
+<!-- ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/1280px-Windows_10_Logo.svg.png) -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/1280px-Windows_10_Logo.svg.png" width="300" alt="Windows Logo"> </h3>
+___
 
 
 This has been made with the intent of making it easier to tweak Windows and it's settings, quickly install & configure programs.
